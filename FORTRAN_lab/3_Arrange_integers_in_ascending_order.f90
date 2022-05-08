@@ -19,6 +19,7 @@
       write(*,*) "Enter the",i," element"
       read(*,*) element(i)
      end do
+     !Even if I don't use the DO loop to read array named "element" and directly write: [READ (*,*) element] then also it will work
      
      do j = 1 , n
        do k = j + 1 , n
