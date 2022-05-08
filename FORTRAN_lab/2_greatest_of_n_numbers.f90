@@ -1,6 +1,6 @@
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !Program to find greatest of three numbers
-!      Basic FORTRAN Lab By Samsuzz           
+!Basic FORTRAN Lab By Samsuzz           
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     program greatest3
